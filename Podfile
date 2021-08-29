@@ -6,6 +6,7 @@ target 'ThemovieDB' do
   use_frameworks!
 
   # Pods for ThemovieDB
+  pod 'RxSwift'
 
   target 'ThemovieDBTests' do
     # Pods for testing
