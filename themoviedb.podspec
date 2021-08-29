@@ -15,8 +15,8 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "themoviedb"
-  spec.version      = "0.0.1"
+  spec.name         = "themoviedbAPI"
+  spec.version      = "0.0.2"
   spec.summary      = "A CocoaPods library written in Swift"
 
   # This description is used to generate tags and improve search results.
@@ -54,7 +54,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "phuong.doan" => "95doanphuong@gamil.com" }
+  spec.author             = { "phuong.doan" => "95doanphuong@gmail.com" }
   # Or just: spec.author    = "phuong.doan"
   # spec.authors            = { "phuong.doan" => "95doanphuong@gamil.com" }
   # spec.social_media_url   = "https://twitter.com/phuong.doan"
